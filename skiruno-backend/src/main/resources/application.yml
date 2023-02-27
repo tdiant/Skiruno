@@ -1,0 +1,5 @@
+quarkus:
+  application:
+    name: "skiruno-backend"
+  http:
+    port: 8082
